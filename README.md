@@ -1,6 +1,6 @@
 # Meta-Llama-3.1-70B-ColabxGroq-API
 
-Meta Llama 3.1-70B is one of the open source LLM released by meta. It supports 8 Languages `English, German, French, Italian, Portuguese, Hindi, Spanish, and Thai`.
+Meta Llama 3.1-70B is one of the open source LLM released by meta It is a very capable model with a whopping 70 billion parameters. It supports 8 Languages `English, German, French, Italian, Portuguese, Hindi, Spanish, and Thai`.
 
 Here we are using Groq API to get access to the model and run it. Since all the inference is done through Groq API, you can run this notebook on the basic `CPU Runtime` without any gpu. And honestly its really fast.
 
