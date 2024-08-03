@@ -13,7 +13,7 @@ The next step is to copy and save your API key in the `colab secretes tab`.<br> 
 | 🚀 **Llama 3.1-70B-ColabxGroq** |  [![Open in Colab](https://github.com/73LIX/Meta-Llama-3.1-8BxColab/blob/main/asset/colab_logo.svg)](https://colab.research.google.com/drive/1_B3vedI7H994TIm8w0f82Meguj-TtJt0?usp=sharing)
 
 ## The NewUI:
-This interface comes with some new feature like: <br>
+This new interface comes with some new feature like: <br>
 1. Saving your chat history/content into a json file stored in `content/chats`.<br> 
 2. Whenever you start a chat, the application saves a json file and the filename is created with some random texts picked up from your conversation.<br>
 3. You have the option to start a new chat or select from existing ones so that you can continue your topic/chat with the model without loosing any previous data or information you fed into it. Its basically like continuing your chat from wherever you left it off.
